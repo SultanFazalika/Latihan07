@@ -1,6 +1,7 @@
 #LATIHAN 7
 
 ##Latihan 1.py
+
 **Soal**
 - Buat program dengan perulangan bertingkat(_nested_) for yang menghasilhan output sebagai berikut:
 ![soal1](soal1.jpg)
